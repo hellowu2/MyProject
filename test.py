@@ -9,6 +9,10 @@ def hanoi(n,x,y,z):
 
 
 
+
+
+
+
         
 
 n=int(input('请输入汉诺塔层数：'))
