@@ -7,5 +7,9 @@ def hanoi(n,x,y,z):
         hanoi(n-1,y,x,z)
 
 
+
+
+        
+
 n=int(input('请输入汉诺塔层数：'))
 hanoi(n,'x','y','z')
